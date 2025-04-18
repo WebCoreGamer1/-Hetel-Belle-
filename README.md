@@ -1,4 +1,4 @@
-<#-Hetel-Belle-
+<#-Hotel-Belle-
 <Electronic Arts
 <Pesadelo
 <
